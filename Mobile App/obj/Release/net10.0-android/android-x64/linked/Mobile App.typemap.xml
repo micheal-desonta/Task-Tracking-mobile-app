@@ -1,0 +1,8 @@
+<api type="release" assembly-name="Mobile App" mvid="01f8464e04fe4c5989cd147742d7b038">
+  <module assembly-name="Mobile App" mvid="01f8464e04fe4c5989cd147742d7b038" mvid-bytes="Tkb4Af4EWUyJzRR3QtewOA==">
+    <types-scratch>
+      <entry key="crc649cdc484de593cb7e/MainActivity" java-name="crc649cdc484de593cb7e/MainActivity" managed-type-name="Mobile_App.MainActivity" token="33554441" />
+      <entry key="crc649cdc484de593cb7e/MainApplication" java-name="crc649cdc484de593cb7e/MainApplication" managed-type-name="Mobile_App.MainApplication" token="33554442" />
+    </types-scratch>
+  </module>
+</api>

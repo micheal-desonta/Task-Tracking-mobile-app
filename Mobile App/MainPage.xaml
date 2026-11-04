@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Mobile_App.MainPage"
+             Title="Dashboard">
+
+    <ScrollView>
+        <VerticalStackLayout x:Name="myLayout" Padding="30" Spacing="20">
+
+            <!-- Header Section -->
+            <Label Text="Track your daily tasks"
+                   FontSize="28"
+                   FontAttributes="Bold"
+                   HorizontalOptions="Center" />
+
+            <Label Text="To do list"
+                   FontSize="16"
+                   TextColor="Gray"
+                   HorizontalOptions="Center" />
+
+            <!-- Interactive Input Section -->
+            <Entry x:Name="UserInputEntry"
+                   Placeholder="Add task"
+                   Margin="0,20,0,0" />
+
+            <Button x:Name="ActionButton"
+                    Text="Submit"
+                    Clicked="OnActionButtonClicked"
+                    BackgroundColor="#512BD4"
+                    TextColor="White" />
+
+            <!-- FIXED: Dedicated container for dynamically generated rows -->
+            <VerticalStackLayout x:Name="TasksContainer" Spacing="10" Margin="0,20,0,0" />
+
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

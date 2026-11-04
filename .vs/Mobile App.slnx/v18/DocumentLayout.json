@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Micheal\\source\\repos\\Mobile App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6246A7-B774-02E0-A9FA-AFB45D7A69BA}|Mobile App\\Mobile App.csproj|c:\\users\\micheal\\source\\repos\\mobile app\\mobile app\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6246A7-B774-02E0-A9FA-AFB45D7A69BA}|Mobile App\\Mobile App.csproj|solutionrelative:mobile app\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6246A7-B774-02E0-A9FA-AFB45D7A69BA}|Mobile App\\Mobile App.csproj|c:\\users\\micheal\\source\\repos\\mobile app\\mobile app\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4F6246A7-B774-02E0-A9FA-AFB45D7A69BA}|Mobile App\\Mobile App.csproj|solutionrelative:mobile app\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 283,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Micheal\\source\\repos\\Mobile App\\Mobile App\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Mobile App\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Micheal\\source\\repos\\Mobile App\\Mobile App\\MainPage.xaml",
+              "RelativeToolTip": "Mobile App\\MainPage.xaml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-03T12:19:48.915Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Micheal\\source\\repos\\Mobile App\\Mobile App\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Mobile App\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Micheal\\source\\repos\\Mobile App\\Mobile App\\MainPage.xaml.cs",
+              "RelativeToolTip": "Mobile App\\MainPage.xaml.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAewI4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T12:20:13.875Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
